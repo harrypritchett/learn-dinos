@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Learn Dinos</title>
+    <link>https://harrypritchett.github.io/learn-dinos/posts/</link>
+    <description>Recent content in Posts on Learn Dinos</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 18 Sep 2022 21:12:24 -0400</lastBuildDate><atom:link href="https://harrypritchett.github.io/learn-dinos/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My first dinosaur page</title>
+      <link>https://harrypritchett.github.io/learn-dinos/posts/my-first-post/</link>
+      <pubDate>Sun, 18 Sep 2022 21:12:24 -0400</pubDate>
+      
+      <guid>https://harrypritchett.github.io/learn-dinos/posts/my-first-post/</guid>
+      <description>Spinosaurus These are my top 5 facts about a Spinosaurus Spinosaurus is known to have eaten fish, and most scientists believe that it hunted both terrestrial and aquatic prey. Spinosaurus is the longest known terrestrial carnivore. Spinosaurus (meaning &amp;ldquo;spine lizard&amp;rdquo;) is a genus of spinosaurid dinosaur that lived in what now is North Africa. It lived in a humid environment of tidal flats and mangrove forests alongside many other dinosaurs. Its skull had a narrow snout filled with straight conical teeth that lacked serrations.</description>
+    </item>
+    
+  </channel>
+</rss>
