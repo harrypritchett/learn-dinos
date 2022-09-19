@@ -1,7 +1,7 @@
 ---
 title: "My first dinosaur page"
 date: 2022-09-18T21:12:24-04:00
-draft: true
+draft: false
 ---
 
 # Spinosaurus
