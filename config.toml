@@ -1,0 +1,4 @@
+baseURL = 'https://harrypritchett.github.io/learn-dinos'
+languageCode = 'en-us'
+title = 'Learn Dinos'
+theme = "ananke"
